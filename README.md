@@ -1,7 +1,3 @@
-Here’s an advanced design for your GitHub profile README, including a visually appealing banner and enhanced layout. To make it dynamic and visually stunning, you'll need to add images, icons, and potentially use tools like [Shields.io](https://shields.io/) and [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). Here's the template:  
-
----
-
 <!-- Add a banner image -->
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQEVe_He8H6VAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687975596634?e=1743033600&v=beta&t=4sORvCVSWl4VI7DtWShktR9PxU1wNxLIQxJb8-OYE94" alt="Banner" />
