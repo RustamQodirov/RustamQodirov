@@ -30,29 +30,6 @@
   <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />  
 </div>  
 
----
-
-## 📈 **GitHub Stats**  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Rustam's GitHub Stats" height="180px" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="180px" />  
-</div>  
-
----
-
-## 🏆 **Flutter Projects**  
-
-### 📌 [Kinder-Watch Dashboard](https://github.com/yourusername/kinder-watch)  
-🔹 Designed and implemented **responsive UI/UX** for the **Manager Role**  
-🔹 Features include a **dashboard**, **profile editor**, and **group management tools**  
-
-### 📌 [Project Name](https://github.com/yourusername/project-link)  
-🔹 Description: A concise description of the project  
-🔹 Features: Mention a few key features (e.g., animations, state management, custom widgets)  
-
----
-
 ## 🌱 **Currently Learning**  
 
 - Advanced **Flutter animations**  
@@ -74,16 +51,3 @@
 
 _"Flutter's **hot reload** makes development so much faster and enjoyable—it's like magic for coders!"_  
 
----
-
-### 🌐 **Profile Visits**  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
-
----
-
-### Enhancements:  
-- Replace `yourusername` with your GitHub username.  
-- Swap placeholders with project names and links.  
-- Consider adding a live Flutter app demo (GIF or video) under **Projects**.  
-
-Let me know if you'd like further adjustments!
