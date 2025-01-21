@@ -1,53 +1,49 @@
-<!-- Add a banner image -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEVe_He8H6VAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687975596634?e=1743033600&v=beta&t=4sORvCVSWl4VI7DtWShktR9PxU1wNxLIQxJb8-OYE94" alt="Flutter Developer Banner" />
-</p>  
+<h2 align="left">Hi 👋! I'm Rustam Kodirov, a passionate Flutter Developer dedicated to creating scalable, high-performance mobile applications with seamless user experiences. I specialize in building responsive apps for both Android and iOS platforms, focusing on clean code and efficient solutions.</h2>
 
-# 🌟 **Hi, I'm Rustam Kodirov!**  
+###
 
-<p align="center">  
-  <b>Passionate Flutter Developer | Mobile App Creator</b>  
-</p>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🖼️ **About Me**  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-🎓 **Software Engineering Student** at **New Uzbekistan University** (4th Year)  
-📱 Dedicated to building **high-quality, scalable Flutter apps** for Android and iOS  
-💙 Aiming to deliver **responsive UIs** and **seamless user experiences**  
-🌍 Fluent in **English** and **Uzbek**  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-## 🛠️ **Flutter Tech Stack**  
+###
 
-<div align="center">  
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />  
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />  
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />  
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />  
-  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />  
-</div>  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 🌱 **Currently Learning**  
+###
 
-- Advanced **Flutter animations**  
-- State management solutions like **Provider** and **Bloc**  
-- Integrating third-party APIs into Flutter apps  
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-## 💬 **Contact Me**  
-
-<div align="center">  
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>  
-</div>  
-
----
-
-## 🔥 **Fun Fact About Flutter**  
-
-_"Flutter's **hot reload** makes development so much faster and enjoyable—it's like magic for coders!"_  
-
+###
