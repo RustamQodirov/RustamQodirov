@@ -2,10 +2,7 @@
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQEVe_He8H6VAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687975596634?e=1743033600&v=beta&t=4sORvCVSWl4VI7DtWShktR9PxU1wNxLIQxJb8-OYE94" alt="Flutter Developer Banner" />
 </p>  
-🎓 **Software Engineering Student** at **New Uzbekistan University** (4th Year)  
-📱 Dedicated to building **high-quality, scalable Flutter apps** for Android and iOS  
-💙 Aiming to deliver **responsive UIs** and **seamless user experiences**  
-🌍 Fluent in **English** and **Uzbek**  " alt="GitHub Banner" width="100%" />
+Hi, I'm Rustam Kodirov, a passionate Flutter Developer dedicated to creating scalable, high-performance mobile applications with seamless user experiences. I specialize in building responsive apps for both Android and iOS platforms, focusing on clean code and efficient solutions.
 
 # Hello World!, I'm Rustam Kodirov! 👋🏼:
 🎓 **Software Engineering Student** at **New Uzbekistan University** (4th Year)  
