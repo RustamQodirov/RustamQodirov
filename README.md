@@ -4,7 +4,7 @@ Here’s an advanced design for your GitHub profile README, including a visually
 
 <!-- Add a banner image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=Welcome+to+Rustam's+GitHub+Profile!" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEVe_He8H6VAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687975596634?e=1743033600&v=beta&t=4sORvCVSWl4VI7DtWShktR9PxU1wNxLIQxJb8-OYE94" alt="Banner" />
 </p>  
 
 # 🌟 **Hello, I'm Rustam Kodirov!**  
