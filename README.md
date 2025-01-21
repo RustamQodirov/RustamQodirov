@@ -1,12 +1,12 @@
 <!-- Add a banner image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEVe_He8H6VAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687975596634?e=1743033600&v=beta&t=4sORvCVSWl4VI7DtWShktR9PxU1wNxLIQxJb8-OYE94" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEVe_He8H6VAQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687975596634?e=1743033600&v=beta&t=4sORvCVSWl4VI7DtWShktR9PxU1wNxLIQxJb8-OYE94" alt="Flutter Developer Banner" />
 </p>  
 
-# 🌟 **Hello, I'm Rustam Kodirov!**  
+# 🌟 **Hi, I'm Rustam Kodirov!**  
 
 <p align="center">  
-  <b>Flutter Developer | Cybersecurity Enthusiast | Mobile App Innovator</b>  
+  <b>Passionate Flutter Developer | Mobile App Creator</b>  
 </p>  
 
 ---
@@ -14,20 +14,20 @@
 ## 🖼️ **About Me**  
 
 🎓 **Software Engineering Student** at **New Uzbekistan University** (4th Year)  
-📱 **Passionate Mobile App Developer** with a focus on Flutter  
-🔒 **Cybersecurity Enthusiast**, exploring secure app development and penetration testing  
+📱 Dedicated to building **high-quality, scalable Flutter apps** for Android and iOS  
+💙 Aiming to deliver **responsive UIs** and **seamless user experiences**  
 🌍 Fluent in **English** and **Uzbek**  
 
 ---
 
-## 🛠️ **Tech Stack**  
+## 🛠️ **Flutter Tech Stack**  
 
 <div align="center">  
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />  
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />  
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />  
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />  
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />  
 </div>  
 
 ---
@@ -41,23 +41,23 @@
 
 ---
 
-## 🏆 **My Projects**  
+## 🏆 **Flutter Projects**  
 
 ### 📌 [Kinder-Watch Dashboard](https://github.com/yourusername/kinder-watch)  
-🔹 Developed the **Manager Role UI/UX** for a real-time group management system  
-🔹 Integrated user-friendly components like a **dashboard**, **profile editor**, and **staff manager**  
+🔹 Designed and implemented **responsive UI/UX** for the **Manager Role**  
+🔹 Features include a **dashboard**, **profile editor**, and **group management tools**  
 
 ### 📌 [Project Name](https://github.com/yourusername/project-link)  
-🔹 Description of the project  
-🔹 Technologies used: **Flutter**, **Firebase**, etc.  
+🔹 Description: A concise description of the project  
+🔹 Features: Mention a few key features (e.g., animations, state management, custom widgets)  
 
 ---
 
 ## 🌱 **Currently Learning**  
 
-- Advanced Flutter widgets and performance optimization  
-- Back-end development for mobile apps (Node.js/Firebase)  
-- Cybersecurity best practices for mobile applications  
+- Advanced **Flutter animations**  
+- State management solutions like **Provider** and **Bloc**  
+- Integrating third-party APIs into Flutter apps  
 
 ---
 
@@ -70,9 +70,9 @@
 
 ---
 
-## 🔥 **Fun Fact**  
+## 🔥 **Fun Fact About Flutter**  
 
-"I enjoy solving puzzles and debugging tricky code—it feels like unraveling a mystery!"  
+_"Flutter's **hot reload** makes development so much faster and enjoyable—it's like magic for coders!"_  
 
 ---
 
@@ -81,7 +81,9 @@
 
 ---
 
-You can enhance this further by:  
-- Replacing the placeholder banner with a custom design (e.g., using Canva or Figma).  
-- Adding animated GIFs or custom badges for more interactivity.  
-Let me know if you’d like help creating the banner or optimizing the design!
+### Enhancements:  
+- Replace `yourusername` with your GitHub username.  
+- Swap placeholders with project names and links.  
+- Consider adding a live Flutter app demo (GIF or video) under **Projects**.  
+
+Let me know if you'd like further adjustments!
