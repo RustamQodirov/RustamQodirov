@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Rustam Kodirov, a passionate Flutter Developer dedicated to creating scalable, high-performance mobile applications with seamless user experiences. I specialize in building responsive apps for both Android and iOS platforms, focusing on clean code and efficient solutions.</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
